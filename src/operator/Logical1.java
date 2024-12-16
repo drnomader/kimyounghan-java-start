@@ -1,7 +1,5 @@
 package operator;
 
-import java.sql.SQLOutput;
-
 public class Logical1 {
 	public static void main(String[] args) {
 		// 현재 라인 완성 및 다음 라인으로 이동 : Ctrl + Shift + Enter
