@@ -8,6 +8,5 @@
 * 스코프, 형변환
 * 배열
 * 메서드
----
-[출처](https://inf.run/PuC6W)
 
+![image](https://github.com/user-attachments/assets/f3940889-9b2b-4dac-b5fd-ccc5fd1047b2)
